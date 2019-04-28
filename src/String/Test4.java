@@ -8,7 +8,7 @@ public class Test4 {
 			for(int i=0;i<10000;i++){
 				sb.append(s0);
 				System.out.println("你好");
-				System.out.println("hello world 你好6666");
+				System.out.println("hello world 你好6666我爱你中国");
 			}
 			
 		}
