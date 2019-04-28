@@ -9,6 +9,7 @@ public class Test4 {
 				sb.append(s0);
 				System.out.println("你好");
 				System.out.println("hello world 11111");
+				System.out.println("test test test");
 			}
 			
 		}
