@@ -7,7 +7,7 @@ public class Test4 {
 			long t = System.currentTimeMillis();
 			for(int i=0;i<10000;i++){
 				sb.append(s0);
-				System.out.printIn("你好");
+				System.out.println("你好");
 			}
 			
 		}
