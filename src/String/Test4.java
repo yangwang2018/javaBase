@@ -10,6 +10,7 @@ public class Test4 {
 				System.out.println("你好");
 				System.out.println("hello world 11111");
 				System.out.println("test test test");
+				System.out.println("idea idea");
 			}
 			
 		}
